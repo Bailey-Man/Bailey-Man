@@ -7,14 +7,21 @@ applications of Data Science and Machine
 Learning in the following fields:
 
 Polar Science: *See HDSI*
+
 Deep Learning: *See TRELS*
+
 Disease Transmission: *See GeoACT*
+
 Geospatial Systems: *See Travel Planner*
 
 # See anything interesting? Feel free to reach out with any questions or comments:
+
 Email: bmman@ucsd.edu, baileyman99@gmail.com
+
 Send a popup message to my desktop!: #TBD
+
 Messenger Pigeon: somewhere in San Diego
+
 Discord: Bailey#0211
 
 ## Current Projects:

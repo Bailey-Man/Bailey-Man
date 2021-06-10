@@ -35,6 +35,10 @@ Discord: Bailey#0211
 * Link to website
 
 * GeoACT
+* Link to Video w/ Kaushik
+* Link to paper on GeoACT as a whole
+* Link to paper on GeoJulia
+* Link to paper on GeoACT for gateways
 
 ## Portfolio:
 <details>
@@ -45,6 +49,12 @@ Discord: Bailey#0211
   1. __CSE 151A: [Reddit Post Popularity] ()__
 
   2. __Competition: [COVID Travel Planner] ()__
+  
+  # in progress
+  
+  1. __UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
+  
+  2. __CVA: [Cryospheric Visualization and Analysis] ()__
 
   # planned
   

@@ -1,6 +1,7 @@
 ### Hello there 👋 I'm Bailey Man
 
 Data Science Researcher at the San Diego Supercomputer Center
+
 Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, with a minor in Cognitive Science
 
 ## What I'm Working On ⚡
@@ -12,7 +13,10 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
 ## What I'm Learning 🌱
 
 Coding Languages: Python, Julia
+
 CAD software: SOLIDWORKS, AutoCAD
+
+Leadership: How to guide and coax a team towards success
 
 ## My Portfolio:
 <details>

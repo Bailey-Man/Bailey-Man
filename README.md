@@ -1,67 +1,31 @@
 ### Hello there 👋 I'm Bailey Man
 
-Fourth year Data Science student at UCSD
-Studying at Haliocioglu Data Science Institute
-Currently exploring interesting and novel 
-applications of Data Science and Machine
-Learning in the following fields:
+Data Science Researcher at the San Diego Supercomputer Center
+Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, with a minor in Cognitive Science
 
-Polar Science: *See HDSI*
+## What I'm Working On ⚡
 
-Deep Learning: *See TRELS*
+## What I'm Learning 🌱
 
-Disease Transmission: *See GeoACT*
-
-Geospatial Systems: *See Travel Planner*
-
-# See anything interesting? Feel free to reach out with any questions or comments:
-
-Email: bmman@ucsd.edu, baileyman99@gmail.com
-
-Send a popup message to my desktop!: #TBD
-
-Messenger Pigeon: somewhere in San Diego
-
-Discord: Bailey#0211
-
-## Current Projects:
-
-* TRELS Scholarship
-* Link to URC talk (May 8)
-* Link to website
-
-* HDSI Scholarship
-* Link to Lightning Talk
-* Link to website
-
-* GeoACT
-* Link to Video w/ Kaushik
-* Link to paper on GeoACT as a whole
-* Link to paper on GeoJulia
-* Link to paper on GeoACT for gateways
-
-## Portfolio:
+## My Portfolio:
 <details>
-  <summary><strong>Click here to view</strong></summary>
-  
-  # complete
+  <summary><strong>Class Projects</strong></summary>
   
   1. __CSE 151A: [Reddit Post Popularity] ()__
+  
+  <summary><strong>Competition Projects</strong></summary>
 
   2. __Competition: [COVID Travel Planner] ()__
   
-  # in progress
+  <summary><strong>Scholarship Projects</strong></summary>
   
   1. __UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
   
   2. __CVA: [Cryospheric Visualization and Analysis] ()__
-
-  # planned
+  
+  <summary><strong>Personal Projects</strong></summary>
   
   1. __Self: [Popup Lyrics] ()__
-
-  2. __Self: [Article Viewer (use twitter message api)] ()__
-  
 
 </details>
 
@@ -70,14 +34,3 @@ Discord: Bailey#0211
 <!--
 **Bailey-Man/Bailey-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

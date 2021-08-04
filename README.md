@@ -28,8 +28,8 @@ CAD software: SOLIDWORKS, AutoCAD
   
 </details>
   <summary><strong>Scholarship Projects</strong></summary>
-<details>
   
+<details>
   1. __UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
   
   2. __CVA: [Cryospheric Visualization and Analysis] ()__

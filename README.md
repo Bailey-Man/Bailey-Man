@@ -25,11 +25,11 @@ CAD software: SOLIDWORKS, AutoCAD
   <summary><strong>Competition Projects</strong></summary>
 
   2. __Competition: [COVID Travel Planner] ()__
-  
 </details>
+
+<details>
   <summary><strong>Scholarship Projects</strong></summary>
   
-<details>
   1. __UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
   
   2. __CVA: [Cryospheric Visualization and Analysis] ()__

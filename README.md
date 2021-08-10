@@ -26,7 +26,7 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
 </details>
 
 <details> 
-  <summary<strong>Tools</strong></summary>
+  <summary><strong>Tools</strong></summary>
   
   Coding: [Git](https://git-scm.com/doc), [VSCode](https://code.visualstudio.com/docs),  [Docker](https://docs.docker.com/)
   
@@ -39,8 +39,6 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
   % Tableau, Hadoop, Spark, PowerBI, NASA Core Flight Software, CUDA, Kubernetes, Scala
   % Pytorch, OpenCV
 </details>
-
-
   
 <details>
   <summary><strong>Planned Projects</strong></summary>

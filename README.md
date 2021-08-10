@@ -16,19 +16,33 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
 
 ## What I'm Learning 🌱
 
-### Coding Languages: 
-Proficient: [Python](https://www.python.org/), [HTML](https://html.com/)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JavaScript](https://www.javascript.com/), [SQL](), [R](), [MATLAB](), 
-Familiar: [Julia]()
+<details>
+  <summary><strong>Coding Languages</strong></summary>
+  
+  
+  Proficient: [Python](https://www.python.org/), [HTML](https://html.com/)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JavaScript](https://www.javascript.com/), [SQL](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15), [LaTeX](https://www.latex-project.org/help/documentation/)
 
-Tools: [Git](), [VSCode](), [Medium](), [Docker](), [Microsoft Office](), 
-
-% To Learn: Need a project to put on profile: 
-% Tableau, Hadoop, Spark, PowerBI, NASA Core Flight Software, CUDA, Kubernetes, Scala
-% Pytorch, OpenCV
-
-CAD software: SOLIDWORKS, AutoCAD
-
+  Familiar: [Julia](https://docs.julialang.org/en/v1/), [R](https://www.r-project.org/other-docs.html), [MATLAB](https://www.mathworks.com/products/matlab.html)
+  
 </details>
+
+<details> 
+  <summary<strong><Tools></strong></summary>
+  
+  Coding: [Git](https://git-scm.com/doc), [VSCode](https://code.visualstudio.com/docs),  [Docker](https://docs.docker.com/)
+  
+  Communication: [Medium](https://medium.com/),
+
+  CAD software: SOLIDWORKS, AutoCAD, Siemens NX
+  
+  
+  % To Learn: Need a project to put on profile: 
+  % Tableau, Hadoop, Spark, PowerBI, NASA Core Flight Software, CUDA, Kubernetes, Scala
+  % Pytorch, OpenCV
+  
+</details>
+
+
   
 <details>
   <summary><strong>Planned Projects</strong></summary>

@@ -6,9 +6,15 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
 
 ## What I'm Working On ⚡
 
-1. GeoACT
+1. GeoACT: Geographically Assisted Agent-based Model for COVID-19 Transmission
 
-2. RTF Tool
+2. RTF Tool: Remedial Time-Frame analysis tool for predicting estimated completion time and success of intervention methods towards contaminated groundwater wells. (Private Repo)
+
+3. CVA: Cryosphere Visualization and Analysis Jupyter Book
+
+4. UAPET: Underwater Animal Pose Estimation and Tracking
+
+__UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
 
 ## What I'm Learning 🌱
 
@@ -28,7 +34,6 @@ CAD software: SOLIDWORKS, AutoCAD
 <details>
   <summary><strong>Current Projects</strong></summary>
     
-  1. __UAPET: [Underwater Animal Pose Estimation and Tracking] ()__
   
   2. __CVA: [Cryospheric Visualization and Analysis] ()__
   

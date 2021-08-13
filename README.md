@@ -10,9 +10,9 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
 
 2. RTF Tool: Remedial Time-Frame analysis tool for predicting estimated completion time and success of intervention methods towards contaminated groundwater wells. (Private Repo)
 
-3. CVA: Cryosphere Visualization and Analysis Jupyter Book
+3. CVA: Cryosphere Visualization and Analysis: a Jupyter Book regarding introductory data analysis and processing for satellite remote sensing of Earth's polar regions.
 
-4. UAPET: Underwater Animal Pose Estimation and Tracking
+4. UAPET: Underwater Animal Pose Estimation and Tracking: models designed for automating the collection of interactions between Dolphins that might provide evidence of their levels of cognitive ability.
 
 ## What I'm Learning 🌱
 
@@ -30,7 +30,7 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
   
   Coding: [Git](https://git-scm.com/doc), [VSCode](https://code.visualstudio.com/docs),  [Docker](https://docs.docker.com/)
   
-  Communication: [Medium](https://medium.com/),
+<!--   Communication: [Medium](https://medium.com/), -->
 
   CAD software: SOLIDWORKS, AutoCAD, Siemens NX
   
@@ -40,12 +40,6 @@ Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, wi
   % Pytorch, OpenCV
 </details>
   
-<details>
-  <summary><strong>Planned Projects</strong></summary>
-  
-  1. __MyControls: [Script for easy access to things I access often] ()__
- 
-</details>
 <!--
 **Bailey-Man/Bailey-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,18 +1,12 @@
-### Hello there 👋 I'm Bailey Man
-
-Data Science Researcher at the San Diego Supercomputer Center
-
-Undergraduate Data Science Major at the Halıcıoğlu Data Science Institute, with a minor in Cognitive Science
-
-## What I'm Working On ⚡
+## Current Projects ⚡
 
 1. GeoACT: Geographically Assisted Agent-based Model for COVID-19 Transmission
 
-2. RTF Tool: Remedial Time-Frame analysis tool for predicting estimated completion time and success of intervention methods towards contaminated groundwater wells. (Private Repo)
+2. CVA: Cryosphere Visualization and Analysis: a Jupyter Book regarding introductory data analysis and processing for satellite remote sensing of Earth's polar regions.
 
-3. CVA: Cryosphere Visualization and Analysis: a Jupyter Book regarding introductory data analysis and processing for satellite remote sensing of Earth's polar regions.
+3. UAPET: Underwater Animal Pose Estimation and Tracking: models designed for automating the collection of interactions between Dolphins that might provide evidence of their levels of cognitive ability.
 
-4. UAPET: Underwater Animal Pose Estimation and Tracking: models designed for automating the collection of interactions between Dolphins that might provide evidence of their levels of cognitive ability.
+4. BCIspeller: Brain-Computer Interface speller: Development of algorithms and GUI for novel EEG BCI designs.
 
 ## What I'm Learning 🌱
 

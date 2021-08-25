@@ -1,5 +1,7 @@
 ## Current Projects ⚡
 
+[Portfolio](https://bailey-man.github.io/)
+
 1. GeoACT: Geographically Assisted Agent-based Model for COVID-19 Transmission
 
 2. CVA: Cryosphere Visualization and Analysis: a Jupyter Book regarding introductory data analysis and processing for satellite remote sensing of Earth's polar regions.

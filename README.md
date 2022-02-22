@@ -1,5 +1,5 @@
 ## Current Projects ⚡
-
+<!-- 
 [Portfolio](https://bailey-man.github.io/)
 
 1. GeoACT
@@ -8,7 +8,8 @@
 
 3. CryoViz
 
-4. Remediation Model
+4. Remediation Model -->
+* Update In Progress *
 
 ## Feel free to reach out with questions or comments!
 

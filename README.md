@@ -1,7 +1,6 @@
 ### About Me
 * Data Science Researcher
 * Applications Programmer
-* 
 
 ### Programming Languages 
 

@@ -1,4 +1,7 @@
-** INSERT BANNER GIF HERE **
+### About Me
+* Data Science Researcher
+* Applications Programmer
+* 
 
 ### Programming Languages 
 
@@ -48,14 +51,11 @@
 
 ### Projects
 
-![Geospatial Agent-based modeling for COVID-19 Transmission](
-![Remedial Time-Frame Analysis Tool](
-![Underwater Animal Pose Estimation and Tracking](
-![Cryospheric Visualization and Analysis](
-![BCI Speller](
-
-
-
+![Geospatial Agent-based modeling for COVID-19 Transmission](https://img.shields.io/badge/-GeoACT-orange)
+![Remedial Time-Frame Analysis Tool](https://img.shields.io/badge/-RTF-red)
+![Underwater Animal Pose Estimation and Tracking](https://img.shields.io/badge/-UAPET-darkblue)
+![Cryospheric Visualization and Analysis](https://img.shields.io/badge/-CVA-lightblue)
+![BCI Speller](https://img.shields.io/badge/-BCIS-green)
 
 ### How To Reach Me
 * You can reach me any time at the email in my github profile or either of the following;

@@ -58,6 +58,6 @@
 
 ### How To Reach Me
 * You can reach me any time at any of the following emails and I'll get back to you ASAP;
-- bailey.maxwell.man@gmail.com
+- bailey.sh.m.man@gmail.com
 - baileyman99@gmail.com
 - bmman@ucsd.edu

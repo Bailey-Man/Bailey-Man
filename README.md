@@ -1,7 +1,10 @@
 ### About Me
 * Data Science Researcher
 * Applications Programmer
+* Medically banned from touching my skateboard for a while
 
+
+<!-- 
 ### Programming Languages 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -46,18 +49,17 @@
 ### IDEs
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) -->
 
-### Projects
+<!-- ### Projects
+
 
 ![Geospatial Agent-based modeling for COVID-19 Transmission](https://img.shields.io/badge/-GeoACT-orange)
 ![Remedial Time-Frame Analysis Tool](https://img.shields.io/badge/-RTF-red)
 ![Underwater Animal Pose Estimation and Tracking](https://img.shields.io/badge/-UAPET-darkblue)
 ![Cryospheric Visualization and Analysis](https://img.shields.io/badge/-CVA-lightblue)
-![BCI Speller](https://img.shields.io/badge/-BCIS-green)
+![BCI Speller](https://img.shields.io/badge/-BCIS-green) -->
 
-### How To Reach Me
-* You can reach me any time at any of the following emails and I'll get back to you ASAP;
-- bailey.sh.m.man@gmail.com
-- baileyman99@gmail.com
-- bmman@ucsd.edu
+
+### Contact Information
+Email: baileyman99@gmail.com    
